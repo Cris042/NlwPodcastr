@@ -1,6 +1,8 @@
 <h1 align="center">
   <p> Podcastr </p>
 </h1>
+<p align="center"> Projeto desenvolvido com ajuda da Rocketseat </p>
+<hr>
 
 
 <br>
